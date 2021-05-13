@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 
 import { FormsModule } from '@angular/forms';
 import { YjsComponent } from './yjs/yjs.component';
-import { DemoComponent } from './demo/demo.component';
 
 
 
@@ -14,7 +13,6 @@ import { DemoComponent } from './demo/demo.component';
   declarations: [
     AppComponent,
     YjsComponent,
-    DemoComponent,
   ],
   imports: [
     BrowserModule,
